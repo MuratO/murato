@@ -67,11 +67,11 @@ Currently building my own company and modern SaaS products.
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=GITHUB_USERNAME&show_icons=true&count_private=true&hide_title=true&theme=dark"
+    src="https://github-readme-stats.vercel.app/api?username=MuratO&show_icons=true&count_private=true&hide_title=true&theme=dark"
     height="140"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GITHUB_USERNAME&layout=compact&theme=dark"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuratO&layout=compact&theme=dark"
     height="140"
   />
 </p>
@@ -82,7 +82,7 @@ Currently building my own company and modern SaaS products.
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=GITHUB_USERNAME&theme=darkhub&no-frame=true&row=1&column=6"
+    src="https://github-profile-trophy.vercel.app/?username=MuratO&theme=darkhub&no-frame=true&row=1&column=6"
     height="120"
   />
 </p>
