@@ -17,7 +17,7 @@ I build:
 - engineering standards  
 - products that don’t collapse at scale  
 
-Currently building my own company and modern SaaS products.
+Currently building hobby SaaS products.
 
 ---
 
