@@ -89,14 +89,6 @@ Currently building hobby SaaS products.
 
 ---
 
-### 🎸 Side Notes
-
-- Metal music listener 🤘  
-- Systems thinker  
-- Strong opinions about bad architecture  
-
----
-
 ### 📫 Contact
 
 If you want to talk about:
