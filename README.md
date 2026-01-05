@@ -2,7 +2,7 @@
 <h3 align="center">Hi 👋 I'm Murat</h3>
 
 <p align="center">
-CTO · Technology Strategist · Software Architect<br/>
+CTO · Engineering Leader · Software Architect<br/>
 Builder of scalable products & engineering teams
 </p>
 
